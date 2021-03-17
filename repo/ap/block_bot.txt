@@ -1,0 +1,32 @@
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36
+ ip : 204.85.30.5 || 2020-10-10 ----> 11:48:01
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+ ip : 23.228.130.70 || 2020-10-10 ----> 11:50:22
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+ ip : 62.214.62.134 || 2020-10-10 ----> 13:30:34
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-N975U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36
+ ip : 63.117.14.133 || 2020-10-11 ----> 15:24:18
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+ ip : 209.56.124.135 || 2020-10-12 ----> 14:51:31
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+ ip : 216.221.127.198 || 2020-10-12 ----> 15:49:12
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+ ip : 96.21.0.6 || 2020-10-12 ----> 19:59:18
+
+
+BLOCKED HOSTNAME || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+ ip : 195.121.71.10 || 2020-10-12 ----> 20:38:37
+
+
